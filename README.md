@@ -1,4 +1,4 @@
-# Peng-Robinson-EOS-for-one-componenet
+# Peng-Robinson-EOS-for-one-component
 
 #### This project is a Matlab implementation of the Peng Robinson equation of state (EOS) to gain a better understanding of pure components from a theoretical standpoint and then compare them with experimental data found from NIST.
 
