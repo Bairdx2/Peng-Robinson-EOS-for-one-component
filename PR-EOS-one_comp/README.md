@@ -1,1 +1,1 @@
-# Peng-Robinson-EOS-for-one-componenet
+# Peng-Robinson-EOS-for-one-component
